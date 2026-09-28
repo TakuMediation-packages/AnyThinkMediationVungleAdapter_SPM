@@ -17,7 +17,7 @@ The Taku (AnyThink) Liftoff Monetize (Vungle) mediation adapter for iOS, distrib
    ```
    https://github.com/TakuMediation-packages/AnyThinkMediationVungleAdapter_SPM
    ```
-3. Select **Exact Version** and enter the target version (e.g. `7.7.6-2.0`).
+3. Select **Exact Version** and enter the target version (e.g. `70706.2.0`).
 4. Add the `AnyThinkMediationVungleAdapter` product to your app target.
 5. In your target's **Build Settings**, add `-ObjC` to **Other Linker Flags**.
 
@@ -27,7 +27,7 @@ The Taku (AnyThink) Liftoff Monetize (Vungle) mediation adapter for iOS, distrib
 dependencies: [
     .package(
         url: "https://github.com/TakuMediation-packages/AnyThinkMediationVungleAdapter_SPM.git",
-        exact: "7.7.6-2.0"
+        exact: "70706.2.0"
     )
 ]
 ```
