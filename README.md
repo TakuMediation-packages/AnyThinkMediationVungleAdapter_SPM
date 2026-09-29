@@ -35,7 +35,7 @@ dependencies: [
 ## Included dependencies
 
 - [`AnyThinkiOS`](https://github.com/TakuMediation-packages/AnyThinkiOS_SPM) (>= 6.5.60)
-- [`VungleAds`](https://github.com/Vungle/VungleAdsSDK-SwiftPackageManager) (pinned to the version certified for this adapter release)
+- [`VungleAdsSDK`](https://github.com/Vungle/VungleAdsSDK-SwiftPackageManager) (pinned to the version certified for this adapter release)
 
 ## More information
 
