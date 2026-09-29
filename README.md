@@ -6,7 +6,7 @@ The Taku (AnyThink) Liftoff Monetize (Vungle) mediation adapter for iOS, distrib
 
 - iOS 12.0+
 - Xcode 15.0+
-- Taku (AnyThink) iOS Core SDK (`AnyThinkiOS`) 6.5.0+
+- Taku (AnyThink) iOS Core SDK (`AnyThinkiOS`) 6.5.60+
 
 ## Installation
 
@@ -34,7 +34,7 @@ dependencies: [
 
 ## Included dependencies
 
-- [`AnyThinkiOS`](https://github.com/TakuMediation-packages/AnyThinkiOS_SPM) (>= 6.5.0)
+- [`AnyThinkiOS`](https://github.com/TakuMediation-packages/AnyThinkiOS_SPM) (>= 6.5.60)
 - [`VungleAds`](https://github.com/Vungle/VungleAdsSDK-SwiftPackageManager) (pinned to the version certified for this adapter release)
 
 ## More information
