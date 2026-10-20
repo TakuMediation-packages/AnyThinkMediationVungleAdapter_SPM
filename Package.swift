@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnyThinkVungleAdapter",
-            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/AnyThink_Release/iosnetwork_2/AnyThinkVungleAdapter/7.7.6.2.0/AnyThinkVungleAdapter-7.7.6.2.0.zip",
-            checksum: "fb8368a9840b55a08e1ddc2bf3dff416fc1a379ab099fa6416d7ac0bcf589209"
+            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/AnyThink_Release/iosnetwork_2/AnyThinkVungleAdapter/7.7.7.2.9/AnyThinkVungleAdapter-7.7.7.2.9.zip",
+            checksum: "8186798620fe8b69eec3d56376fe87f4dd8678b14e639c3b365d064b17ba7001"
         ),
         .target(
             name: "AnyThinkMediationVungleAdapterTarget",
